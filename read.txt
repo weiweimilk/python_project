@@ -1,0 +1,6 @@
+git add file
+git rm file
+
+
+git remote add origin https://github.com/weiweimilk/python_project.git
+git push -u origin master
